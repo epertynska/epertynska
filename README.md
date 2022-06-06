@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @epertynska
 - 👀 I’m interested in psychology, crochetting, programming and basically learning new things.
-- 🌱 I’m currently learning python and ruby.
+- 🌱 I’m currently learning Python and Data Science.
 - 💞️ I’m looking for opportunities to learn, maybe work? :)
 - 📫 How to reach me - e-mail: epertynska@gmail.com
